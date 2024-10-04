@@ -65,7 +65,7 @@ const RightSideBar = () => {
                     <li>
                         <div className={styles.userInfo}>
                             <img 
-                            src="https://randomuser.me/api/portraits/men/42/jpg" 
+                            src="https://randomuser.me/api/portraits/men/42.jpg" 
                             alt="chiller" 
                             />
                             <div>
@@ -78,7 +78,7 @@ const RightSideBar = () => {
                     <li>
                         <div className={styles.userInfo}>
                             <img 
-                            src="https://randomuser.me/api/portraits/men/45/jpg" 
+                            src="https://randomuser.me/api/portraits/men/45.jpg" 
                             alt="dude" 
                             />
                             <div>
@@ -91,7 +91,7 @@ const RightSideBar = () => {
                     <li>
                         <div className={styles.userInfo}>
                             <img 
-                            src="https://randomuser.me/api/portraits/women/4/jpg" 
+                            src="https://randomuser.me/api/portraits/women/4.jpg" 
                             alt="travellady" 
                             />
                             <div>

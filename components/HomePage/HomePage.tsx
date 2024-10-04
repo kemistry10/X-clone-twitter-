@@ -9,7 +9,7 @@ const HomePage = () => {
     return (
         <div className={styles.container}>
             {/* Sidebar */}
-            <SideBar avatarUrl={''} />
+            <SideBar avatarUrl={'https://randomuser.me/api/portraits/men/9.jpg'} />
             {/* MainContent */}
             <MainContent />
             {/* RightSidebar */}
